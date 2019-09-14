@@ -1,0 +1,19 @@
+#HomePage{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+h4{
+    color: #FFFFFF;
+    opacity: 0.87;
+    margin-bottom: 2vh;
+
+}
+
+h2{
+    color: #FFFFFF;
+    opacity: 0.87;
+    margin-bottom: 1px;
+}
