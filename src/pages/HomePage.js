@@ -24,7 +24,7 @@ class HomePage extends Component{
 
         var {isLoaded,items}=this.state;
         if(!isLoaded){
-            return <div>Loading...</div>
+            return <div><h2 id='loading'>Loading...</h2></div>
         }
 
         return(
