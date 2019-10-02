@@ -6,9 +6,10 @@
     border-radius: 8px;
     background-color: rgba(50,50,50,0.5);
     margin-bottom: 30px;
+    transition: .2s background-color;
 }
 
-#NewsItem :hover{
+#NewsItem:hover{
     background-color: rgba(50,50,50,0.7);
 }
 
