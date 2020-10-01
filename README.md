@@ -61,7 +61,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 ### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+Check the Deployed App at: https://newswebapp-252914.web.app/
+  
+![App](https://i.imgur.com/uVEqU7b.png)
 
 ### `npm run build` fails to minify
 
